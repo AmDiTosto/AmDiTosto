@@ -4,6 +4,7 @@
 - Full Stack Developer & Martinrea International Inc
 - Interested in Automotive Technology, AI, and Software Systems  
 
+---
 
 # 🛠 Tech Stack
 
@@ -39,6 +40,7 @@
 
 </p>
 
+---
 
 # 🚀 Projects
 
@@ -57,7 +59,7 @@ AI-powered voice messaging system capable of generating personalized phone calls
 
 [🔗 Project Link](https://github.com/MoschellaV/HackThe6ix2024)
 
-
+---
 
 # 📫 Contact
 

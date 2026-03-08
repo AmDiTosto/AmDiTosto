@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Adrian Di Tosto
 
 - Computer Science Student at the University of Guelph  
-- Full Stack Developer & Martinrea International Inc
+- Full Stack Developer @ Martinrea International Inc
 - Interested in Automotive Technology, AI, and Software Systems  
 
 ---

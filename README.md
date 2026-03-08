@@ -50,8 +50,6 @@ Mobile application that encourages users to explore nature by identifying birds 
 [🔗 Project Link](https://github.com/MoschellaV/BirdWatcher)
 
 
----
-
 ## Call Me Maybe
 AI-powered voice messaging system capable of generating personalized phone calls.
 

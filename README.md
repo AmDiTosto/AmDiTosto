@@ -57,11 +57,11 @@
 
 # 📫 Contact
 
-💼 LinkedIn  
+💼 LinkedIn:
 https://www.linkedin.com/in/aditosto/
 
-🌐 Portfolio  
+🌐 Portfolio:
 https://www.adrianditosto.com/
 
-📧 Email  
+📧 Email:
 amditosto@gmail.com

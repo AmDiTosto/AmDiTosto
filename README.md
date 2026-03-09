@@ -2,7 +2,13 @@
 
 - Computer Science Student @ University of Guelph  
 - Full Stack Developer @ Martinrea International Inc
-  
+
+---
+
+# 🚀 Projects
+- [Bird Watcher](https://github.com/MoschellaV/BirdWatcher)
+- [Call Me Maybe](https://github.com/MoschellaV/HackThe6ix2024)
+
 ---
 
 # 🛠 Tech Stack
@@ -46,21 +52,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
-
----
-
-# 🚀 Projects
-
-## Bird Watcher
-Mobile application that encourages users to explore nature by identifying birds using AI-powered image analysis.
-
-[🔗 Project Link](https://github.com/MoschellaV/BirdWatcher)
-
-
-## Call Me Maybe
-AI-powered voice messaging system capable of generating personalized phone calls.
-
-[🔗 Project Link](https://github.com/MoschellaV/HackThe6ix2024)
 
 ---
 

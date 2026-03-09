@@ -54,15 +54,11 @@
 ## Bird Watcher
 Mobile application that encourages users to explore nature by identifying birds using AI-powered image analysis.
 
-**Tech:** Flutter, FastAPI, OpenAI API  
-
 [🔗 Project Link](https://github.com/MoschellaV/BirdWatcher)
 
 
 ## Call Me Maybe
 AI-powered voice messaging system capable of generating personalized phone calls.
-
-**Tech:** Next.js, Python, OpenAI, ElevenLabs, Twilio  
 
 [🔗 Project Link](https://github.com/MoschellaV/HackThe6ix2024)
 

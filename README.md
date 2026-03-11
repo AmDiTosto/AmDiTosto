@@ -6,6 +6,7 @@
 ---
 
 # 🚀 Projects
+- [Personal Portfolio](https://github.com/AmDiTosto/PersonalPortfolio?tab=readme-ov-file)
 - [Bird Watcher](https://github.com/MoschellaV/BirdWatcher)
 - [Call Me Maybe](https://github.com/MoschellaV/HackThe6ix2024)
 
